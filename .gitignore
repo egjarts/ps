@@ -1,4 +1,7 @@
 node_modules/
 .vscode/
-config/local.*
 
+
+config/local.json
+
+config/local.json
