@@ -1,0 +1,12 @@
+{
+  "database": {
+    "uri": "mongodb+srv://pubulous-subulous-d5xco.mongodb.net/test",
+    "options": {
+      "useNewUrlParser": true,
+      "useUnifiedTopology": true,
+      "w": "majority",
+      "retryWrites": "true",
+      "auth": { "user": "", "password": "" }
+    }
+  }
+}
